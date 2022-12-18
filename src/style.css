@@ -1,0 +1,126 @@
+.txtStyle
+{
+    color:cornflowerblue;
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}
+.nav
+{
+    background-color: #333;
+    padding: 16px;
+}
+.text
+{
+    color: white;
+    display: inline-block;
+    font-size: 20px;
+}
+.nav td
+{
+    display: inline;
+    padding: 14px 16px;
+    text-align: center;
+}
+.home
+{
+    background-color: #B4A293;
+    padding: 20px;
+    height: 450px;
+    width: 1220px;
+}
+.intro
+{
+    color: white;
+    font-size: 25px;
+    width: 300px;
+    float: right;
+    margin: 50px;
+    padding: 40px;
+}
+.logo
+{
+    height: 400px;
+    width: 500px;
+    margin: 30px;
+}
+.table
+{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.table td, .table th
+{
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+.table tr:nth-child(even)
+{
+    background-color: #f2f2f2;
+}
+.table tr:hover
+{
+    background-color: #ddd;
+}
+.table th
+{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+.about
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 100px;
+    color: white;
+    width: 50px;
+    margin: 90px;
+    text-align: center;
+}
+.intro1
+{
+    color: white;
+    font-size: 20px;
+    width: 480px;
+    height: 400px;
+    margin: 14px;
+    padding: 14px;
+    float: right;
+}
+.contact h3
+{
+    color: darkgrey;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+.contact p
+{
+    font-size: 14px;
+}
+.contact h2
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.container
+{
+    display: flex;
+    flex-direction: row;
+    margin: 30px;
+    padding: 30px;
+    justify-content: center;
+    align-items: center;
+}
+.cont1
+{
+    padding: 50px;
+    margin: 20px;
+    box-sizing: border-box;
+}
+.contact
+{
+    text-align: center;
+}
